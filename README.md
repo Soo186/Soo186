@@ -1,9 +1,5 @@
 <!--![header](https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:1a1a1a&height=200&text=Hi,%20I'm%20Soo&fontColor=ffffff&animation=twinkling)-->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:000080,100:000000&height=200&section=header&text=Hi,%20I%27m%20Soo%20%F0%9F%92%BB&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
-
-#### ✏️ Blog : https://soo-develop.tistory.com
-#### 📧 Email : rlagustn9797@gmail.com
-#### 🏃‍♂️ to Backend Developer
  #### ✏️ Blog : https://soo-develop.tistory.com
  #### 📧 Email : rlagustn9797@gmail.com
  #### 🏃‍♂️ To Backend Developer

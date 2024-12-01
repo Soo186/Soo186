@@ -1,7 +1,7 @@
 ## Hi, I'm Soo 👋
 
-### ✏️ Blog : https://soo-develop.tistory.com
-### 📧 Email : rlagustn9797@gmail.com
+ #### ✏️ Blog : https://soo-develop.tistory.com
+ #### 📧 Email : rlagustn9797@gmail.com
 
 <!--
 **Soo186/Soo186** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

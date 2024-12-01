@@ -11,15 +11,10 @@
 > 👨‍💻 **탄탄한 기본기를 갖추며 성장하고자 하는 개발자입니다!**
 
 ## 🙋‍♂️ About Me
-<div style="display: flex; gap: 5px;">
-  <a href="https://soo-develop.tistory.com/">
-    <img src="https://img.shields.io/badge/story-E34F26?style=for-the-badge&logo=tistory&logoColor=white">
-  </a>
-  <a href="https://github.com/Soo186">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <img src="https://img.shields.io/badge/ENTP-navy?style=for-the-badge">
-</div>
+[![Gmail](https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:rlagustn9797@gmail.com)
+[![Story](https://img.shields.io/badge/story-E34F26?style=for-the-badge&logo=tistory&logoColor=white)](https://soo-develop.tistory.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Soo186)
+![ENTP](https://img.shields.io/badge/ENTP-navy?style=for-the-badge)
 
 ## 🛠 Tech Stack
 ### ⚡ Backend

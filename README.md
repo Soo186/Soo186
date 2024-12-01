@@ -2,6 +2,7 @@
 
  #### ✏️ Blog : https://soo-develop.tistory.com
  #### 📧 Email : rlagustn9797@gmail.com
+ #### 🏃‍♂️ To Backend Developer
 
 <!--
 **Soo186/Soo186** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

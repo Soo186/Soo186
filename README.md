@@ -17,21 +17,22 @@
 ![ENTP](https://img.shields.io/badge/ENTP-navy?style=for-the-badge)
 
 ## 🛠 Tech Stack
+
 ### ⚡ Backend
 <div style="display: flex; gap: 5px;">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-5382a1?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
-  <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
-  <img src="https://img.shields.io/badge/QueryDsl-0769AD?style=for-the-badge&logo=database&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/JPA-37474f?style=for-the-badge&logo=Hibernate&logoColor=white">
+  <img src="https://img.shields.io/badge/QueryDsl-054c7d?style=for-the-badge&logo=database&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-2c5282?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
 ### 🚀 DevOps
 <div style="display: flex; gap: 5px;">
-  <img src="https://img.shields.io/badge/CI/CD-485769?style=for-the-badge&logo=circleci&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
+  <img src="https://img.shields.io/badge/CI/CD-2d3748?style=for-the-badge&logo=circleci&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-1467b3?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-151e29?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub_Actions-1366d6?style=for-the-badge&logo=github-actions&logoColor=white">
 </div>
 
 ## 📊 GitHub Stats

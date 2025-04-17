@@ -8,7 +8,7 @@
 ## 🏃‍♂️ To Backend Developer
 > 📚 **Back to Basic**
 > 
-> 👨‍💻 **탄탄한 기본기를 갖추며 성장하고자 하는 개발자입니다 !**
+> 👨‍💻 **탄탄한 기본기를 갖추며 성장하고자 하는개발자입니다 !**
 
 ## 🙋‍♂️ About Me
 [![Gmail](https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:rlagustn9797@gmail.com)

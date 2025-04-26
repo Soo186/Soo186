@@ -33,6 +33,7 @@
   <img src="https://img.shields.io/badge/Docker-1467b3?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/AWS-151e29?style=for-the-badge&logo=amazon-aws&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub_Actions-1366d6?style=for-the-badge&logo=github-actions&logoColor=white">
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
 </div>
 
 ## 📊 GitHub Stats
